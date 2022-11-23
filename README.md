@@ -8,10 +8,10 @@ I have acheived this by adding alt text to all the images, including background 
 
 ## Usage
 
-This website can be used for social media marketing tips. Please see below screenshot of the main page. The following image shows the web application's appearance and functionality:
+This website can be used for social media marketing tips. Please see below screenshot of the main page. The following image shows the deployed website:
 
     
-    ![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./assets/images/screenshot.png)
+    ![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](assets/images/screenshot.png)
     
 
 ## Link to deployed application
