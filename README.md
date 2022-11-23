@@ -10,10 +10,7 @@ I have acheived this by adding alt text to all the images, including background 
 
 This website can be used for social media marketing tips. Please see below screenshot of the main page. The following image shows the deployed website:
 
-<img src="https://github.com/pudders/horiseon-improving-accessibility/blob/main/assets/images/screenshot.png" alt="The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.">
-    
-    ![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](https://github.com/pudders/horiseon-improving-accessibility/blob/main/assets/images/screenshot.png)
-    
+<img src="https://github.com/pudders/horiseon-improving-accessibility/blob/main/assets/images/screenshot.png" alt="The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.">    
 
 ## Link to deployed application
 
